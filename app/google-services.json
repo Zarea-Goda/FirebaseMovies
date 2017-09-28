@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953601997265",
+    "firebase_url": "https://alert-impulse-160200.firebaseio.com",
+    "project_id": "alert-impulse-160200",
+    "storage_bucket": "alert-impulse-160200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953601997265:android:00b125c2022b12b6",
+        "android_client_info": {
+          "package_name": "com.example.zarea.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953601997265-87u9co2hvk6nrn56s5u24ebks1ile606.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zarea.firebase",
+            "certificate_hash": "5df46345b5687fc12b167fefe89fff3334223606"
+          }
+        },
+        {
+          "client_id": "953601997265-jmjcd4qiam3f2lasobv8ca5aco9dsm0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmYN9dsF53vcllBHF_nddpo5Fed2RAiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953601997265-jmjcd4qiam3f2lasobv8ca5aco9dsm0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
